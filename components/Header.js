@@ -5,7 +5,7 @@ export default function Header({ name }) {
   return (
     <header className="pt-20 pb-12">
       <Image
-        src="/static/profilePic.png"
+        src="/public/profilePic.png"
         alt="author profile pic"
         className="w-12 h-12 rounded-full block mx-auto mb-4"
         width="48"
