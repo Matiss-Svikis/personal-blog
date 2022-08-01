@@ -76,7 +76,7 @@ function Navbar(props) {
                   title="Github"
                 >
                   <Image
-                    src="/public/github-square-512.webp"
+                    src="/github-square-512.webp"
                     alt="github icon"
                     style={{
                       backgroundColor: 'White',
